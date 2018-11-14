@@ -4,4 +4,3 @@
 
 stack build
 stack exec haskellTest-exe
-# haskellTest
